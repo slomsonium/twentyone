@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "102239fcca4ec311",
+        "id": "20d65de070fd1b17",
         "type": "tabs",
         "children": [
           {
-            "id": "2942b263e80089f5",
+            "id": "e50bb60e19df2525",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,24 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "United Lands of Andrea"
-            }
-          }
-        ]
-      },
-      {
-        "id": "20d65de070fd1b17",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e50bb60e19df2525",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png"
-              },
-              "icon": "lucide-image",
-              "title": "the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1"
             }
           }
         ]
@@ -96,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 261.5
   },
   "right": {
     "id": "128e00c5bca1fb44",
@@ -187,35 +169,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76a37fd94133d114",
+  "active": "e50bb60e19df2525",
   "lastOpenFiles": [
-    "TWENTYONE.md",
+    "Locations/Sariwan.md",
+    "t75hnqzmdpxa1.png",
     "the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png",
-    "Im the goat/The Goat!.md",
-    "Factions/South Sariwan.md",
-    "Im the goat",
-    "Factions/North Sariwan.md",
-    "Factions/New Millennium Collective.md",
-    "Concepts/The Creation Myth.md",
+    "Races/Yakubian.md",
+    "Locations/Gaia.md",
     "Races/Human.md",
-    "Races/Changeling.md",
+    "TWENTYONE.md",
+    "Locations/Wordington.md",
+    "Concepts/The Creation Myth.md",
+    "yakub-big-brain.png",
+    "Religion/Holy Tablets.pdf",
+    "Religion/desktop.ini",
+    "Religion/Untitled.md",
+    "Pasted image 20250703150026.png",
+    "Pasted image 20250703145956.png",
+    "Religion",
+    "Concepts/Untitled",
+    "Factions/Untitled.md",
+    "Concepts/Magic.md",
+    "Pasted image 20250703145906.png",
+    "Pasted image 20250703145902 1.png",
+    "Pasted image 20250703145902.png",
+    "Locations/New Ackerman.md",
+    "Locations/Tianxia.md",
+    "Locations/Great Lanserin.md",
+    "Locations/Auscognia.md",
+    "Locations/United Lands of Andrea.md",
+    "Factions/South Sariwan.md",
+    "Factions/New Millennium Collective.md",
+    "Dates/2000.md",
     "Dates/1999.md",
     "Dates/1975.md",
-    "Dates/1973.md",
-    "Dates/1955.md",
-    "Concepts/Magic.md",
-    "Races/Elf.md",
-    "Races/Tiefling.md",
-    "Events/The Great Shower.md",
     "Dates/1964.md",
-    "Characters/Dolton.md",
-    "Locations/New Ackerman.md",
-    "Locations/Great Lanserin.md",
-    "Locations/Gaia.md",
-    "Locations/Auscognia.md",
-    "Events/Sariwan War.md",
-    "Locations/Sariwan.md",
-    "Locations/Tianxia.md",
+    "Dates/1955.md",
+    "Races/Changeling.md",
+    "Factions/North Sariwan.md",
+    "Dates/1973.md",
     "Concepts",
     "Events",
     "Sessions",
@@ -223,8 +215,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Dates",
-    "Factions",
-    "Races",
-    "Locations"
+    "Factions"
   ]
 }
