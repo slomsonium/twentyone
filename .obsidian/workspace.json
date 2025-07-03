@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/The Creation Myth.md",
+                "file": "Races/Yakubian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Creation Myth"
+              "title": "Yakubian"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "e50bb60e19df2525",
   "lastOpenFiles": [
-    "Religion/Holy Tablets.pdf",
+    "TWENTYONE.md",
+    "Races/Yakubian.md",
+    "Locations/Wordington.md",
     "Concepts/The Creation Myth.md",
+    "yakub-big-brain.png",
+    "Religion/Holy Tablets.pdf",
     "Religion/desktop.ini",
     "Religion/Untitled.md",
     "Pasted image 20250703150026.png",
@@ -181,7 +185,6 @@
     "Concepts/Untitled",
     "Factions/Untitled.md",
     "Concepts/Magic.md",
-    "Locations/Wordington.md",
     "Pasted image 20250703145906.png",
     "Pasted image 20250703145902 1.png",
     "Pasted image 20250703145902.png",
@@ -199,7 +202,6 @@
     "Dates/1975.md",
     "Dates/1964.md",
     "Dates/1955.md",
-    "TWENTYONE.md",
     "Races/Human.md",
     "Races/Changeling.md",
     "Factions/North Sariwan.md",
