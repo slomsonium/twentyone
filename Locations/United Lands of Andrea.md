@@ -1,0 +1,3 @@
+# Description
+
+One of the largest countries on [[Gaia]]. Based on the [United States of America](https://en.wikipedia.org/wiki/United_States), the [[United Lands of Andrea]] serves not only as one of the main settings of [[TWENTYONE]] but also represents one of the major factions within the world. Between [[1964]] and [[1973]], the country allied alongside [[South Sariwan]] during the [[Sariwan War]] against [[North Sariwan]].
