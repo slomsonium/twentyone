@@ -1,1 +1,0 @@
-Yakub's Caucasian creations![[t75hnqzmdpxa1.png]]
