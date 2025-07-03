@@ -11,14 +11,12 @@
             "id": "2942b263e80089f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Events/The Great Shower.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png"
               },
-              "icon": "lucide-file",
-              "title": "The Great Shower"
+              "icon": "lucide-image",
+              "title": "the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1"
             }
           }
         ]
@@ -171,6 +169,8 @@
   },
   "active": "76a37fd94133d114",
   "lastOpenFiles": [
+    "Images",
+    "Events/The Great Shower.md",
     "Events/Sariwan War.md",
     "Dates/1999.md",
     "Concepts/The Creation Myth.md",
@@ -178,9 +178,9 @@
     "Dates/1955.md",
     "Locations/Tianxia.md",
     "Locations/Wordington.md",
-    "t75hnqzmdpxa1.png",
+    "Images/t75hnqzmdpxa1.png",
     "TWENTYONE.md",
-    "the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png",
+    "Images/the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png",
     "Locations/United Lands of Andrea.md",
     "conflict-files-obsidian-git.md",
     "Religion/desktop.ini",
@@ -197,11 +197,9 @@
     "Dates/1973.md",
     "Races/Elf.md",
     "Races/Tiefling.md",
-    "Events/The Great Shower.md",
     "Dates/1964.md",
     "Characters/Dolton.md",
     "Locations/New Ackerman.md",
-    "Locations/Great Lanserin.md",
     "Concepts",
     "Events",
     "Sessions",
