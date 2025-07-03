@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2000"
             }
+          },
+          {
+            "id": "e42f523b88fd2d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/The Creation Myth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Creation Myth"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,8 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e50bb60e19df2525",
+  "active": "e42f523b88fd2d38",
   "lastOpenFiles": [
+    "RDT_20250625_233010.mp4",
+    "Dates/1999.md",
+    "Concepts/The Creation Myth.md",
+    "conflict-files-obsidian-git.md",
+    "Dates/2000.md",
     "Locations/Great Lanserin.md",
     "Images/Barry_63.webp",
     "Images/the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png",
@@ -191,7 +211,6 @@
     "Races/Human.md",
     "TWENTYONE.md",
     "Locations/Wordington.md",
-    "Concepts/The Creation Myth.md",
     "yakub-big-brain.png",
     "Religion/Holy Tablets.pdf",
     "Religion/desktop.ini",
@@ -205,12 +224,9 @@
     "Pasted image 20250703145906.png",
     "Locations/New Ackerman.md",
     "Locations/Tianxia.md",
-    "Dates/2000.md",
-    "Dates/1999.md",
     "Dates/1975.md",
     "Dates/1964.md",
     "Dates/1955.md",
-    "Races/Changeling.md",
     "Concepts",
     "Events",
     "Sessions",
