@@ -1,1 +1,1 @@
-Yakub's Caucasian creati
+Yakub's Caucasian creations 
