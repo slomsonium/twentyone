@@ -1,3 +1,4 @@
 # Description
 
 In the beginning, [[Gaia]] was precisely the same as [Earth](https://en.wikipedia.org/wiki/Earth) - from the Big Bang all the way up to the meteor that ended the prehistoric era, the planet followed the same path as it's real life counterpart. That was until [[The Great Shower]] occurred. It is unclear how or why it happened, some even speculating that meteors from the Sun and the Moon collided over the sky of [[Gaia]], but the result remains the same - rocks and meteors infused with the power of [[Magic]] were scattered across the surface of [[Gaia]], resulting in the development of magically infused creatures and beings. The [[Human]] race, in their isolated sectors of the world, would begin to evolve and change wildly. From the [[Elf]] race of [[Great Lanserin]], the [[Tiefling]] race of [[Auscognia]], to the [[Changeling]] race of [[Sariwan]], beings of [[Magic]] would begin to spawn and develop into their own races.
+![[RDT_20250625_233010.mp4]]
