@@ -11,12 +11,14 @@
             "id": "2942b263e80089f5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png"
+                "file": "Locations/Great Lanserin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1"
+              "icon": "lucide-file",
+              "title": "Great Lanserin"
             }
           }
         ]
@@ -169,24 +171,26 @@
   },
   "active": "2942b263e80089f5",
   "lastOpenFiles": [
+    "Concepts/The Creation Myth.md",
+    "Concepts/Magic.md",
+    "Dates/1955.md",
+    "Dates/1999.md",
+    "Dates/2000.md",
+    "Images/Barry_63.webp",
+    "Images/the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png",
+    "Images/hqdefault.jpg",
     "hqdefault.jpg",
     "Images/t75hnqzmdpxa1.png",
-    "Images/the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png",
     "Locations/Auscognia.md",
     "Locations/Gaia.md",
     "Locations/Sariwan.md",
     "Locations/Great Lanserin.md",
-    "Concepts/The Creation Myth.md",
     "Locations/United Lands of Andrea.md",
     "Locations/New Ackerman.md",
     "TWENTYONE.md",
     "Events/Sariwan War.md",
-    "Images/hqdefault.jpg",
     "Images",
     "Events/The Great Shower.md",
-    "Dates/1999.md",
-    "Concepts/Magic.md",
-    "Dates/1955.md",
     "Locations/Tianxia.md",
     "Locations/Wordington.md",
     "conflict-files-obsidian-git.md",
