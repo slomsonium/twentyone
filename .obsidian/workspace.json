@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dates/1955.md",
+                "file": "Concepts/Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1955"
+              "title": "Magic"
+            }
+          },
+          {
+            "id": "825ebe4d887095e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/The Creation Myth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Creation Myth"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "20d65de070fd1b17",
@@ -189,17 +204,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76a37fd94133d114",
+  "active": "825ebe4d887095e7",
   "lastOpenFiles": [
-    "Images/the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png",
+    "conflict-files-obsidian-git.md",
+    "Concepts/Magic.md",
+    "TWENTYONE.md",
+    "Concepts/The Creation Myth.md",
+    "Factions/New Millennium Collective.md",
+    "Factions/North Sariwan.md",
+    "Factions/South Sariwan.md",
     "Images/t75hnqzmdpxa1.png",
     "Images/hqdefault.jpg",
+    "Images/the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png",
     "Images/Barry_63.webp",
+    "Dates/1955.md",
+    "Events/The Great Shower.md",
     "Images",
     "t75hnqzmdpxa1.png",
     "the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png",
-    "conflict-files-obsidian-git.md",
-    "Dates/1955.md",
     "hqdefault.jpg",
     "Dates/2000.md",
     "Races/Yakubian.md",
@@ -209,20 +231,13 @@
     "Dates/1964.md",
     "Dates/1973.md",
     "Dates/1999.md",
-    "TWENTYONE.md",
     "Religion/desktop.ini",
     "Religion",
     "Locations/Wordington.md",
     "Races/Human.md",
     "Im the goat/The Goat!.md",
     "Dates/1975.md",
-    "Factions/New Millennium Collective.md",
-    "Factions/South Sariwan.md",
     "Im the goat",
-    "Factions/North Sariwan.md",
-    "Concepts/The Creation Myth.md",
-    "Concepts/Magic.md",
-    "Events/The Great Shower.md",
     "Characters/Dolton.md",
     "Locations/New Ackerman.md",
     "Locations/Great Lanserin.md",
