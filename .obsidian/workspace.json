@@ -11,14 +11,12 @@
             "id": "e50bb60e19df2525",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Races/Yakubian.md",
-                "mode": "source",
-                "source": false
+                "file": "t75hnqzmdpxa1.png"
               },
-              "icon": "lucide-file",
-              "title": "Yakubian"
+              "icon": "lucide-image",
+              "title": "t75hnqzmdpxa1"
             }
           }
         ]
@@ -171,10 +169,11 @@
   },
   "active": "e50bb60e19df2525",
   "lastOpenFiles": [
-    "Races/Human.md",
+    "the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png",
     "t75hnqzmdpxa1.png",
     "Races/Yakubian.md",
-    "the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png",
+    "Locations/Gaia.md",
+    "Races/Human.md",
     "TWENTYONE.md",
     "Locations/Wordington.md",
     "Concepts/The Creation Myth.md",
@@ -196,7 +195,6 @@
     "Locations/Tianxia.md",
     "Locations/Great Lanserin.md",
     "Locations/Auscognia.md",
-    "Locations/Gaia.md",
     "Locations/United Lands of Andrea.md",
     "Factions/South Sariwan.md",
     "Factions/New Millennium Collective.md",
