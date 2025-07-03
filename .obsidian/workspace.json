@@ -33,12 +33,10 @@
             "id": "e50bb60e19df2525",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png"
-              },
-              "icon": "lucide-image",
-              "title": "the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -191,6 +189,9 @@
   },
   "active": "76a37fd94133d114",
   "lastOpenFiles": [
+    "Images/the-classics-of-my-stolen-image-collection-v0-vaygmy6z4the1.png",
+    "Images/t75hnqzmdpxa1.png",
+    "Images",
     "Untitled folder",
     "conflict-files-obsidian-git.md",
     "Locations/United Lands of Andrea.md",
@@ -228,8 +229,6 @@
     "Characters",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Dates",
-    "Factions",
-    "Races"
+    "Dates"
   ]
 }
